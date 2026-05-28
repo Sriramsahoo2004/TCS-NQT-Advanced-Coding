@@ -34,19 +34,6 @@ flowchart LR
     style F fill:#14b8a6,color:#fff,stroke:#0f766e
 ```
 
-## Problem Index
-
-| File | Problem Theme | Core Pattern | Related Practice |
-| --- | --- | --- | --- |
-| `Q_01.cpp` | Move empty chocolate packets to the end | Array rewrite / two pointers | LeetCode 283 |
-| `Q_02.cpp` | Toggle all binary bits of a number | Bit manipulation / mask | LeetCode 476 |
-| `Q_03.cpp` | Count Sundays from a starting weekday | Hash map / modular thinking | LeetCode 1185 |
-| `Q_04.cpp` | Sort risk levels `0`, `1`, `2` | Dutch National Flag | LeetCode 75 |
-| `Q_05.cpp` | Count elements greater than all previous elements | Prefix maximum | Similar to ocean-view style logic |
-| `Q_06.cpp` | Product of digits as item price | Digit processing | LeetCode 1281 concept |
-| `Q_07.cpp` | Max count of `a` in fixed-size chunks | Chunk traversal | Window-style counting |
-| `Q_08.cpp` | Upcoming solution slot | To be added | To be added |
-
 ## Tech Stack
 
 <p align="center">
@@ -111,20 +98,6 @@ mindmap
 | Prefix maximum | Done |
 | More advanced patterns | In progress |
 
-## Repository Structure
-
-```text
-TCS_NQT_DSA/
-|-- Q_01.cpp
-|-- Q_02.cpp
-|-- Q_03.cpp
-|-- Q_04.cpp
-|-- Q_05.cpp
-|-- Q_06.cpp
-|-- Q_07.cpp
-|-- Q_08.cpp
-`-- README.md
-```
 
 ## Goal
 
